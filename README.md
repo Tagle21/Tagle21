@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tagle21
+- 👋 Hi, I’m @Tagle
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...programing
 - 💞️ I’m looking to collaborate on ...intel, facebook, google, or any company interested in programmers
